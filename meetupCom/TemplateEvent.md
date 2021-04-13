@@ -1,3 +1,8 @@
+# Tech Up: Ghost In The Shell (or How To Navigate Through Linux)
+
+When: <date> <time>
+Where: <location> (<url-if-any>)
+
 Thanks to Microsoft, most ordinary computer users have gotten used to getting around with a graphical windows environment. But a lot of our development and operations work still depend on the old reliable *command line*. This TechUp Session introduces you to the basics of how to use the Linux command line. It's not a complete look into it, but it's just enough for you to not get lost when you're there.
 
 *Who is it for?*
